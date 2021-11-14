@@ -49,8 +49,8 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 1
 
-email_address = "sourcefeed1234@gmail.com" # Enter disposable email here
-password = "abhilash2508" # Enter email password here
+email_address = "" # Enter disposable email here
+password = "" # Enter email password here
 
 username = getpass.getuser()
 
